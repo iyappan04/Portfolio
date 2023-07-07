@@ -274,6 +274,7 @@ body {
      padding: 1rem;
      display: grid;
      grid-template-columns: 1fr 1fr;
+     column-gap: 50px;
    }
    .resume-heading{
      padding: 0;
